@@ -1,2 +1,2 @@
 #myApp
-This is my app. This was made following a youtube command line git tutorial.
+This repository was made following a command line git tutorial on Youtube.
